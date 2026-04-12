@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Louisville, Kentucky with a population of over 246k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in Louisville, Kentucky, US",
+  "export_job_id": "3b5e91f5-06bc-49a3-aeb6-3ec2ac1659e5",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 447937,
+  "location_name": "Louisville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-louisville-kentucky-us-sample-447937",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/447937/beamstation_447937_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 97,
+  "sample_sha256": "c428405eb813dcb3fe7c19699e6cfb0ed25b7b8c7242e0a8184e3d7ebff8cc34",
+  "sample_size_bytes": 366507,
+  "total_records": 972,
+  "updated_at": "2026-04-07T10:20:19.277033+00:00"
+}
