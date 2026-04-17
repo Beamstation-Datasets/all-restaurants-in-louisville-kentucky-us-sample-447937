@@ -9,9 +9,9 @@
 | Dataset ID | `447937` |
 | Location | Louisville |
 | Category | Restaurants |
-| Full dataset size | 972 records |
-| Free sample size | 97 records (9.98%) |
-| Last export | 2026-04-07T10:20:19.277033+00:00 |
+| Full dataset size | 970 records |
+| Free sample size | 97 records (10.0%) |
+| Last export | 2026-04-14T10:11:09.239544+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-louisville-kentucky-us-sample-447937/releases/download/sample-latest/beamstation_447937_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
