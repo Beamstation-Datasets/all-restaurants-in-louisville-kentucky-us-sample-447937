@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Louisville, Kentucky with a population of over 246k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Louisville, Kentucky, US",
-  "export_job_id": "ae7c0303-ea77-41c2-98f8-0b5d46a1eb11",
+  "export_job_id": "d9ebec73-80d1-4d81-bb77-a450dce4f258",
   "github_org": "Beamstation-Datasets",
   "id_short": 447937,
   "location_name": "Louisville",
   "location_type": "city",
   "repo_name": "all-restaurants-in-louisville-kentucky-us-sample-447937",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/447937/beamstation_447937_restaurants-us-ky_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 9.93,
   "sample_records": 97,
-  "sample_sha256": "1e0b9f48c6be5369462d71b53939090f6357a5f27e56b87b2795dc4d5d41dd19",
-  "sample_size_bytes": 353555,
-  "total_records": 970,
-  "updated_at": "2026-04-14T10:11:09.239544+00:00"
+  "sample_sha256": "f79464a472d040dc4a876c7e85f81680979c89700dd52813b55d461af2b59055",
+  "sample_size_bytes": 359549,
+  "total_records": 977,
+  "updated_at": "2026-04-21T10:11:39.647384+00:00"
 }
