@@ -1,6 +1,6 @@
 # All Restaurants in Louisville, Kentucky, US
 
-> Free BeamStation sample export with 97 rows and masked direct-contact fields.
+> Free BeamStation sample export with 95 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `447937` |
 | Location | Louisville |
 | Category | Restaurants |
-| Full dataset size | 977 records |
-| Free sample size | 97 records (9.93%) |
-| Last export | 2026-04-21T10:11:39.647384+00:00 |
+| Full dataset size | 958 records |
+| Free sample size | 95 records (9.92%) |
+| Last export | 2026-04-28T10:33:49.217398+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-louisville-kentucky-us-sample-447937/releases/download/sample-latest/beamstation_447937_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
