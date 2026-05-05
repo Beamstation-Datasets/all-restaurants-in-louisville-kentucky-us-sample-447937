@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ddd31ae6-98c7-4289-9022-660fc8db20b0",
+  "export_job_id": "4c321aa5-24a0-49b0-b574-e5ab4f6631bb",
   "id_short": 447937,
-  "published_at": "2026-04-28T19:48:37Z",
+  "published_at": "2026-05-05T19:08:52Z",
   "repo_name": "all-restaurants-in-louisville-kentucky-us-sample-447937",
   "sample_asset_name": "beamstation_447937_restaurants-us-ky_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/447937/beamstation_447937_restaurants-us-ky_SAMPLE_DIST.csv",
-  "sample_records": 95,
-  "sample_sha256": "e1b3996059b0e260e389ec54075d8774c1055a973dacdfcb5b7b46c1ec76e848",
-  "sample_size_bytes": 313533,
-  "total_records": 958
+  "sample_records": 110,
+  "sample_sha256": "8a828a60c4f467c18cfee61af460536fb0b84a69e30237dd063f0f50232391f5",
+  "sample_size_bytes": 397882,
+  "total_records": 1104
 }
